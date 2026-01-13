@@ -41,3 +41,24 @@ The analysis is based on the following files:
 - Subqueries
 - Window Functions
 - Business-oriented data analysis
+
+## Power BI Dashboard
+
+An interactive Power BI dashboard built using the Pizza Sales dataset to analyze
+business performance and customer ordering behavior.
+
+### Key KPIs
+- Total Revenue
+- Total Orders
+- Total Pizzas Sold
+- Average Order Value
+
+### Visual Insights
+- Revenue trend over time
+- Order distribution by hour of day
+- Revenue contribution by pizza category
+- Top 5 pizzas by revenue
+- Interactive filtering by date, category, and size
+
+### Dashboard Preview
+![Pizza Sales Dashboard](PowerBI/dashboard_preview.png)
