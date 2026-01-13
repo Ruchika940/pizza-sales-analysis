@@ -62,7 +62,11 @@ business performance and customer ordering behavior.
 
 ## Power BI Dashboard Preview
 
+*Figure: Power BI dashboard showing revenue trends, hourly order distribution, and category-wise performance.*
+
+
 ![Pizza Sales Dashboard](https://github.com/Ruchika940/pizza-sales-analysis/blob/main/dashboard_preview.JPG)
+
 
 
 
