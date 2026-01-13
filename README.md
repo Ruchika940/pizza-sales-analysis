@@ -60,5 +60,8 @@ business performance and customer ordering behavior.
 - Top 5 pizzas by revenue
 - Interactive filtering by date, category, and size
 
-### Dashboard Preview
-![Pizza Sales Dashboard](PowerBI/dashboard_preview.png)
+## Power BI Dashboard Preview
+
+![Pizza Sales Dashboard](PowerBI/dashboard_preview.jpg)
+
+
