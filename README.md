@@ -62,6 +62,7 @@ business performance and customer ordering behavior.
 
 ## Power BI Dashboard Preview
 
-![Pizza Sales Dashboard](PowerBI/dashboard_preview.jpg)
+![Pizza Sales Dashboard](PowerBI/main/dashboard_preview.JPG)
+
 
 
